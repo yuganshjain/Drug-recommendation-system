@@ -1,4 +1,4 @@
-# Drug-recommendation-system# Drug Recommender System
+# Drug-recommendation-system
   
 __Overview__  
   
