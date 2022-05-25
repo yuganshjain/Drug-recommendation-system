@@ -1,4 +1,4 @@
-# Drug-recommendation-system
+# Disease-prediction-system
   
 __Overview__  
   
